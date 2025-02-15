@@ -1,0 +1,18 @@
+- [🏠 Home](README.md)
+- **Basics**
+  - [Variables](basics.md)
+  - [Data Types](basics.md#data-types)
+  - [Functions](basics.md#functions)
+- **Advanced**
+  - [Closures](advanced.md#closures)
+  - [Async/Await](advanced.md#async-await)
+  - [Promises](advanced.md#promises)
+- **DOM**
+  - [DOM Basics](dom.md)
+  - [Events](dom.md#events)
+- **Frameworks**
+  - [React](frameworks.md#react)
+  - [Next.js](frameworks.md#nextjs)
+- **Best Practices**
+  - [Clean Code](best-practices.md#clean-code)
+  - [Performance](best-practices.md#performance)

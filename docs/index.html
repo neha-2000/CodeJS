@@ -4,15 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>JavaScript Notes</title>
-  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <!-- dark theme -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css"> -->
+
+
+
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'JavaScript Notes',
-      repo: 'https://github.com/neha-2000/CodeJS'
+      repo: 'https://github.com/neha-2000/CodeJS',
+      loadSidebar: true,
+      coverpage: true,
+      auto2top: true
     }
   </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
+
+
