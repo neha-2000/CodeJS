@@ -4,8 +4,15 @@
 
 - Whenever  javascript  run's a global `window object` is created and `global Execution Context` is created and a `this `variable is created .
 
-- First component of execution context is Variable Environment 👍
-    - Memory component which stores all variable and functions as key:value pair.
-    - Its called as Memory component or Variable Environment .
+- `Context` referes to the value of the keyword `this` within the function or block of code.
+
+- Components of execution context:
+    1. Variable Environment 👍
+         - Memory component which stores all variable and functions as key:value pair.
+         - Its called as Memory component or Variable Environment .
+    2. Thread of Execution
+        - `JS is a synchronous single threaded language`.
+        - Code is executed one line at a time.
+
 
 
