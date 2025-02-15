@@ -2,7 +2,7 @@
 
 - Everything in Javascript happens inside an `Execution Context` .
 
-- Whenever  javascript  run's a global `window object` is created and `global Execution Context` is created and a `this `variable is created .
+- Whenever  javascript  run's a `global window object` ,a `global Execution Context`  and a `this `variable is created .
 
 - `Context` referes to the value of the keyword `this` within the function or block of code.
 
