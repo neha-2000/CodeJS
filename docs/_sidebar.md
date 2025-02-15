@@ -1,6 +1,6 @@
 - [🏠 Home](README.md)
 - **Basics**
-  - [Variables](basics.md)
+  - [JS Execution](__JsExecution.md)
   - [Data Types](basics.md#data-types)
   - [Functions](basics.md#functions)
 - **Advanced**
