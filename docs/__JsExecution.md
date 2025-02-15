@@ -16,3 +16,5 @@
 
 
 
+# How javascript code is executed .
+
